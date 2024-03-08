@@ -5,35 +5,35 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: writing
+    url: writing
+
+  - title: research
+    url: research
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Campus surveillance: students and professors decry sensors in buildings
+    url: https://www.nature.com/articles/d41586-023-03287-w
+    desc: Nature, Oct 2023
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: UC San Diego’s expanded on-campus surveillance raises privacy and retaliation concerns 
+    url: https://www.nasw.org/article/nasw-science-writers-education-committee-2023-perlman-program-fayth-tan
+    desc: NASW Student Newsroom, Oct 2023
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: I’m a Transgender Scientist and I See Myself in “Frankenstein”
+    url: https://electricliterature.com/im-a-transgender-scientist-and-i-see-myself-in-frankenstein/
+    desc: Electric Literature, May 2023
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+  - title: Femininity, Foreignness, and Flowers: How culture shapes scientific discovery
+    url: https://caltechletters.org/viewpoints/orchids-science-and-culture
+    desc: Caltech Letters, Jan 2022
+    highlight: NAS Schmidt Award Winning Entry
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+  - title: No more free kelp in Northern California
+    url: https://www.thexylom.com/post/no-more-free-kelp-in-northern-california
+    desc: The Xylom, Oct 2021
+    highlight: NAS Schmidt Award Winning Entry
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: Soopr
